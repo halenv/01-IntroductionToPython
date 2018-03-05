@@ -126,7 +126,7 @@ fred.forward(40)
 fred.right(135)
 fred.forward(15)
 fred.left(15)
-fred.forward(150)
+fred.forward(155)
 
 ###############################################################################
 #
